@@ -1,0 +1,11 @@
+Classifier,Accuracy
+LogisticRegression,0.7830805004982837
+KNeighborsClassifier,0.767135422433839
+SVC,0.774166758941424
+DecisionTreeClassifier,0.7899457424426973
+RandomForestClassifier,0.7922157014727051
+GaussianNB,0.7840217030229211
+GradientBoostingClassifier,0.7924925257446573
+AdaBoostClassifier,0.7955375927361311
+XGBClassifier,0.7970878086590633
+CatBoostClassifier,0.7973092680766249
